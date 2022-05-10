@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/ddayane.primeiro-lwc",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve v1sHiey1BS4NcJo3RbKJ --open"
+  }
+}
